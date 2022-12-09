@@ -4,8 +4,8 @@
     i. Programming
     ii. algorithm
     ii. AI and ML
-- 🌱 I’m currently final year student of computer science engineering at DIT University, Dehradun, India.
-- 💞️ I’m looking to collaborate on AI, ML and OS design based of AI.
+- 🌱 I’m currently final year student of computer science and engineering at DIT University, Dehradun, India.
+- 💞️ I’m looking to collaborate on AI, ML and OS design based on AI.
 - 📫 How to reach me..
   email: ayush1999hzb@gmail.com
 
