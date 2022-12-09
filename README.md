@@ -5,7 +5,7 @@
     ii. algorithm
     ii. AI and ML
 - 🌱 I’m currently final year student of computer science and engineering at DIT University, Dehradun, India.
-- 💞️ I’m looking to collaborate on AI, ML and OS design based on AI.
+- 💞️ I’m looking to collaborate on Web Development, AI, ML and OS design based on AI.
 - 📫 How to reach me..
   email: ayush1999hzb@gmail.com
 
