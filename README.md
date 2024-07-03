@@ -1,12 +1,13 @@
 - 👋 Hi, I’m Naveen Kumar
-- 👀 I’m interested in command line based more robust and powerfull operating system design and development based on cognitive AI.
+- 👀 I’m a software engineer with a knack for problem-solving, designing, and implementing robust software systems.
     more interests:
     i. Programming
     ii. algorithm
-    ii. AI and ML
-- 🌱 I’m currently final year student of computer science and engineering at DIT University, Dehradun, India.
-- 💞️ I’m looking to collaborate on Web Development, AI, ML and OS design based on AI.
-- 📫 How to reach me..
+    iii. AI and ML
+    iV. Web Development
+- 🌱 I graduated in computer science and engineering from DIT University, Dehradun, India.
+- 💞️ I’m looking to collaborate on Web Development, AI, ML, and OS design based on AI.
+- 📫 How to reach me.
   email: ayush1999hzb@gmail.com
 
 <!---
