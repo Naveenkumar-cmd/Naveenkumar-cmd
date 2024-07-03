@@ -7,8 +7,7 @@
 - iV. Web Development
 - 🌱 I graduated in computer science and engineering from DIT University, Dehradun, India.
 - 💞️ I’m looking to collaborate on Web Development, AI, ML, and OS design based on AI.
-- 📫 How to reach me.
-- email: ayush1999hzb@gmail.com
+- 📫 Reach me at E-mail: ayush1999hzb@gmail.com
 
 <!---
 Naveenkumar-cmd/Naveenkumar-cmd is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
