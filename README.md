@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Naveen Kumar
 - 👀 I’m a software engineer with a knack for problem-solving, designing, and implementing robust software systems.
-- more interests:
+- Field of interests:
 - i. Programming
 - ii. Algorithms
 - iii. AI and ML
