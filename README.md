@@ -1,10 +1,11 @@
 - 👋 Hi, I’m Naveen Kumar
-- 👀 I’m a software engineer with a knack for problem-solving, designing, and implementing robust software systems.
+- 👀 I’m in software sales with a knack for problem-solving, designing, and implementing software systems.
 - Field of interests:
-- i. Programming
-- ii. Algorithms
-- iii. AI and ML
-- iV. Web Development
+- I. Sales
+- II. Programming
+- III. Algorithms
+- IV. AI and ML
+- V. Web Development
 - 🌱 I graduated in computer science and engineering from DIT University, Dehradun, India.
 - 💞️ I’m looking to collaborate on Web Development, AI, ML, and OS design based on AI.
 - 📫 Reach me at E-mail: ayush1999hzb@gmail.com
