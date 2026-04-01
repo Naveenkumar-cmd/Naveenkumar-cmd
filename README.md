@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Naveen Kumar
-- 👀 I’m in software sales with a knack for problem-solving, designing, and implementing software systems.
+- 👀 I’m in software sales but have an interest in problem-solving, designing, and implementing software systems.
 - Field of interests:
 - I. Sales
 - II. Programming
